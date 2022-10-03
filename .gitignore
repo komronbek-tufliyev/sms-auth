@@ -1,0 +1,4 @@
+__pycache__
+.env
+send_sms.py 
+venv
